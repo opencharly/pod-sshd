@@ -1,7 +1,5 @@
-version: 2026.232.0520
 sshd:
     candy:
-        version: 2026.144.1443
         description: |
             SSH server with key-based login and passwordless sudo for the uid-1000 account
             Installs the OpenSSH server (openssh-server / openssh on Arch) plus a
