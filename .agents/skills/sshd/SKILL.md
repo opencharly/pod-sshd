@@ -86,9 +86,6 @@ my-image:
         candy: [sshd]
 ```
 
-## Used In Boxes
-
-
 ## Testing Notes
 
 - `/etc/sudoers.d/charly-user` (the NOPASSWD rule written by this candy) is
