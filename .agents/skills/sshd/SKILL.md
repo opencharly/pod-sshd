@@ -88,7 +88,6 @@ my-image:
 
 ## Used In Boxes
 
-- Composed into coder/dev and headless-desktop boxes that need an in-container SSH server (e.g. `/charly-selkies:selkies-labwc`), and applied to VM guests at deploy time
 
 ## Testing Notes
 
